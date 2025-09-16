@@ -1,3 +1,6 @@
+
+https://codepen.io/simiyudorcusdev/pen/xbZKxgo
+
 <td>PHY 9</td>
 - Used `<table>`, `<thead>`, and `<tbody>` for proper structure.
 - Applied `<th scope="col">` for column headers and `<th scope="row">` for row headers.
